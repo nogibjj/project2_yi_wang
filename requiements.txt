@@ -1,0 +1,4 @@
+pandasql
+typer
+psycopg2
+tabulate
